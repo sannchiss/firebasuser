@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "firebasuser"
+  "defaultProject": "firebasuser",
+  "cli": {
+    "analytics": "4ad945d5-5d30-401f-b54e-bcd70f5ef9ed"
+  }
 }
